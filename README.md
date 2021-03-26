@@ -22,3 +22,5 @@ La configurazione è abbastanza semplice ti servirà:
 * Python3 (da cli: sudo apt-get install python3 python3-pip);
 * La libreria pdfrw di python (da cli: pip3 install pdfrw);
 * L'applicativo libreoffice per la command line (da cli: sudo apt-get install libreoffice);
+
+Una volta che avrai eseguito questi passaggi ti basterà contattarci tramite questo profilo Github e ti inoltreremo la seconda parte della guida.
